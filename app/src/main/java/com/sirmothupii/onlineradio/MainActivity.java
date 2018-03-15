@@ -17,6 +17,7 @@ public class MainActivity extends AppCompatActivity
             //pager and adapter variables here
             ViewPager viewPager = (ViewPager) findViewById(viewPager);
             ViewPageAdapter adapter;
+            
     @Override
     protected void onCreate(Bundle savedInstanceState)
     {

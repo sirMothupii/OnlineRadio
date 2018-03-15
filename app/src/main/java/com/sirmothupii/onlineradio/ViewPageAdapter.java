@@ -40,7 +40,6 @@ public class ViewPageAdapter extends PagerAdapter
         View itemView = inflater.inflate().ViewPagerItem, Container.false);
 
         //Infating the images into viewpager box
-
         ImageView image;
         image = (ImageView) itemView.findViewById(R.Id.imageView);
         DisplayMetrics dis = new DisplayMetrics();
